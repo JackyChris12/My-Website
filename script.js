@@ -1,4 +1,4 @@
-document.getElementById("contact-form").addEventListener("submit", function(event) {
+/* document.getElementById("contact-form").addEventListener("submit", function(event) {
     event.preventDefault();
     
     let name = document.getElementById("name").value.trim();
@@ -17,3 +17,4 @@ document.getElementById("contact-form").addEventListener("submit", function(even
         document.getElementById("contact-form").reset();
     }
 });
+ */
